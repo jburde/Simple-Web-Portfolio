@@ -370,6 +370,15 @@ article[project] h3[project] span[project] {
     text-align: center;
 }
 
+article[project] h3[project] span[projectoff] {
+    color:indianred;
+    animation-name: flicker;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+    text-align: center;
+}
+
 footer[project] {
     display: flex;
     flex-wrap: wrap;
