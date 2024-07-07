@@ -787,7 +787,7 @@ h1[cite] {
     margin: auto;
     width: 500px;
     text-align: left;
-    color: #444;
+    color: #444; 
 }
 
 article[blog] {
